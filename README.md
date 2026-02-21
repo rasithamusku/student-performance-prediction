@@ -3,4 +3,4 @@ This poject predicts student academic performance using machine learning based o
 Technologies used 
 -Python
 -Pandas
--Matplotlib.
+-Matplotlib
